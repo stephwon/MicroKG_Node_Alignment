@@ -41,5 +41,5 @@ Example case using both `name` and `id`
 
 [NCBI link](https://www.ncbi.nlm.nih.gov/gene/67459097 ) to that curie, courtesy of David Koslicki. It seems like the full name of the gene might be `A39M_RS0122745 phosphoenolpyruvate carboxykinase (GTP)` not just `A39M_RS0122745` gene symbol(?)
 
-The Jupyter Notebook script and [CSV file](https://github.com/stephwon/MicroKG_Node_Alignment/blob/main/node_norm_with_microKG_names.csv) are provided for reference. 
+The Jupyter Notebook script is provided for reference. 
 
