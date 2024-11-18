@@ -1,5 +1,5 @@
 # Microbiome-MetagenomicKG Node Alignment
-This is a temporary repo for MicrobiomeKG and MetagenomicKG integration. 
+This is just a temporary repo...
 
 ## 1. Node Normalizer (NN)
 Below is the overall schematic of node alignment pipeline:
