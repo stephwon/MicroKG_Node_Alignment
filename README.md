@@ -1,7 +1,7 @@
 # Microbiome-MetagenomicKG Node Alignment
 This is a temporary repo for MicrobiomeKG and MetagenomicKG integration. 
 
-## 2. Node Normalizer (NN)
+## 1. Node Normalizer (NN)
 Below is the overall schematic of node alignment pipeline:
 
 ![schema](image/node_alignment.png)
@@ -15,7 +15,7 @@ There were:
 * **87 nodes** where the names from MicrobiomeKG do not match with Node Normalized name
 * **38 nodes** where the `id` from MicrobiomeKG do not match with NN Identifier. 
 
-## 3. Node Synonymizer (NS)
+## 2. Node Synonymizer (NS)
 Next step in the alingment is to use the Identifier and Name (input parameter) from NN step using **ARAX v1.4 API** endpoint `/entity`.
 Note: The synonimizer step will be switch with python module with SQLite database. 
 
