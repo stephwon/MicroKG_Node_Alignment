@@ -39,5 +39,5 @@ Using MicrobiomeKG `name` for NS
 Example case using both `name` and `id`
 ![name_and_id](image/nonalign_node_example2.png)
 
-[NCBI link](https://www.ncbi.nlm.nih.gov/gene/67459097 ) to that curie, courtesy of David Koslicki. It seems like the full name of the gene might be `A39M_RS0122745 phosphoenolpyruvate carboxykinase (GTP)` not just `A39M_RS0122745` which is gene symbol(?)
+[NCBI link](https://www.ncbi.nlm.nih.gov/gene/67459097 ) to that curie, courtesy of David Koslicki. It seems like the full name of the gene might be `A39M_RS0122745 phosphoenolpyruvate carboxykinase (GTP)` not just `A39M_RS0122745` gene symbol(?)
 
